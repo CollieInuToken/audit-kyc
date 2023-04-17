@@ -12,5 +12,5 @@ Collie Inu CA 🛡 Audit by Cyberscope-io https://github.com/cyberscope-io/audit
 <br>
 
 # Collie Inu Team KYC Certificate
- KYC by Cyberscope-io https://github.com/coinscope-co/kyc/blob/main/collie/kyc.png
- ETH KYC by Cyberscope-io https://github.com/cyberscope-io/kyc/blob/main/collie/kyc.png
+KYC by Cyberscope-io https://github.com/coinscope-co/kyc/blob/main/collie/kyc.png<br>
+ETH KYC by Cyberscope-io https://github.com/cyberscope-io/kyc/blob/main/collie/kyc.png
